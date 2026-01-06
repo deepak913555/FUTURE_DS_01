@@ -1,5 +1,5 @@
-###📊 Global Super Store – Sales & Profit Dashboard###
-📌 Overview
+# 📊 Global Super Store – Sales & Profit Dashboard
+## 📌 Overview
 
 This dashboard provides a comprehensive analysis of sales, profit, orders, and customer trends for the Global Super Store dataset. It is designed to support data-driven decision-making by offering interactive and visually intuitive insights across time, regions, segments, and categories.
 
