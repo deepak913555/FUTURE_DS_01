@@ -7,8 +7,8 @@
   - Orders
   - Customer trends
 - Designed to support data-driven decision-making and quick insights.
-  "C:\Users\dk\OneDrive\Pictures\Screenshot 2025-08-05 090022.png"
-  
+  <img width="1307" height="686" alt="Screenshot 2025-08-05 090022" src="https://github.com/user-attachments/assets/fae33856-a575-4634-b965-af490b5655f1" />
+
 
 ## 🎯 Objectives
 - Track overall sales performance and profitability
